@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>items</key>
+    <array>
+        <dict>
+            <key>assets</key>
+            <array>
+                <dict>
+                    <key>kind</key>
+                    <string>software-package</string>
+                    <key>url</key>
+                    <string>http://www.jiariyingyuan.com/download/ios/jryy.ipa</string>
+                </dict>
+            </array>
+            <key>metadata</key>
+            <dict>
+                <key>keychain-access-groups</key>
+                <array>
+                    <string>7MV7AAW528.*</string>
+                </array>
+
+                <key>get-task-allow</key>
+                <false/>
+
+                <key>application-identifier</key>
+                <string>7MV7AAW528.xiage.com</string>
+
+                <key>com.apple.developer.team-identifier</key>
+                <string>7MV7AAW528</string>
+            </dict>
+        </dict>
+    </array>
+</dict>
+</plist>
